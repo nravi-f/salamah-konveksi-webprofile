@@ -41,10 +41,9 @@ Website ini dibangun menggunakan:
 
 ## Kontak
 
-- **Email**: salamahkonveksi@gmail.com
-- **WhatsApp**: +62 812-3456-7890
-- **Telepon**: (0353) 123-4567
-- **Alamat**: Jl. Raya Bojonegoro No. 123, Bojonegoro, Jawa Timur
+- **Email**:
+- **WhatsApp**:
+- **Alamat**:
 
 ---
 
